@@ -7,7 +7,9 @@ Project 1 is a simple four function calculator, where to do "5 + 5", you would e
 Project 2 takes in a string then replaces all the vowels with x's.
 Project 3 takes in two integers and recursively calculates the greatest common divisor. This one is not executed as it should have been, because it does not go back up the stack.
 
-The .s files for each project can be found in this repository. The text of the code for each project can also be found below.
+The .s files for each project can be found in this repository. 
+The file for project 1 is titled pantoja_roberto-1.s, the file for project 2 is titled pantoja_roberto-2.s, and the file for project 3 is titled pantoja_roberto-3.s.
+The text of the code for each project can also be found below.
 
 The code for project 1:
 
